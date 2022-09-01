@@ -2,4 +2,4 @@ this is the same as project 1 phase 3 except using react instead of native JavaS
 
 # react components of the page
 
-![udemy-react components](https://user-images.githubusercontent.com/47684373/187947916-767da2f6-8d75-48c2-90f1-396f19553f43.png)
+![react components](https://user-images.githubusercontent.com/47684373/187948914-1df96f0d-4047-49af-bcc4-2f9659da660e.png)
