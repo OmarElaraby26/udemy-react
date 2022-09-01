@@ -146,7 +146,7 @@ const DB = {
         "excel": {
             "cards": [
                 {
-                    "id": 1,
+                    "id": 10,
                     "link": "https://www.udemy.com/course/microsoft-excel-2013-course-beginners-intermediate-training/",
                     "title": "Microsoft Excel 2013 Course Beginners/ Intermediate Training",
                     "author": "Infinite Skills",
@@ -157,7 +157,7 @@ const DB = {
                     "category": "excel"
                 },
                 {
-                    "id": 2,
+                    "id": 11,
                     "link": "https://www.udemy.com/course/advanced-microsoft-excel-2013-online-excel-course/",
                     "title": "Microsoft Excel 2013  Advanced. Online Excel Training Course",
                     "author": "Infinite Skills",
@@ -177,7 +177,7 @@ const DB = {
         "web-development": {
             "cards": [
                 {
-                    "id": 1,
+                    "id": 20,
                     "link": "https://www.udemy.com/course/microsoft-excel-2013-course-beginners-intermediate-training/",
                     "title": "Node Js ",
                     "author": "Infinite Skills",
@@ -187,7 +187,7 @@ const DB = {
                     "people": "1,621"
                 },
                 {
-                    "id": 2,
+                    "id": 21,
                     "link": "https://www.udemy.com/course/thecompletewebdeveloper/",
                     "title": "The Complete 2020 Fullstack Web Developer Course",
                     "author": "Kalob Taulien",
