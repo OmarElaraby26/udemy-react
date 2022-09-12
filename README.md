@@ -1,5 +1,3 @@
-this is the same as project 1 phase 3 except using react instead of native JavaScript.\\
+# demo video
 
-# react components of the page
-
-![react components](https://user-images.githubusercontent.com/47684373/187948914-1df96f0d-4047-49af-bcc4-2f9659da660e.png)
+https://user-images.githubusercontent.com/47684373/189711341-6b487358-00a6-4f6b-8df5-b6f7ce4422ae.mp4
