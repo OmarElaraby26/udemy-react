@@ -1,0 +1,12 @@
+.header-and-list>ul {
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+}
+
+.header-and-list>ul>li {
+    padding: 0;
+    margin: 0;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}

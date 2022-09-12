@@ -1,0 +1,75 @@
+.purchase-container {
+    padding: 20px;
+    width: 360px;
+    background-color: #fff;
+    border: 1px solid #d1d7dc;
+    color: #000;
+}
+
+.purchase-content-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.purchase-price {
+    padding: 0;
+    margin: 0 0 10px 0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.purchase-buttons-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.purchase-buttons-container>button {
+    padding: 0;
+    margin: 0;
+    border: none;
+    white-space: nowrap;
+    height: 45%;
+    font-weight: 500;
+}
+
+.purchase-buttons-container>button:nth-child(1) {
+    color: #fff;
+    background-color: #a435f0;
+}
+
+.purchase-buttons-container>button:nth-child(2) {
+    border: 1px solid #000;
+    background-color: #fff;
+}
+
+.purchase-course-include {
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+
+.purchase-footer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.purchase-footer>a {
+    color: #000;
+    white-space: nowrap;
+}

@@ -1,0 +1,40 @@
+.course-content--container {
+    background-color: inherit;
+    color: inherit;
+    padding: 20px;
+    margin: 0;
+}
+
+.course-content--container a {
+    color: #cec0fc;
+}
+
+.course-content--title {
+    padding-bottom: 5px;
+}
+
+.course-content--description {
+    padding-bottom: 10px;
+}
+
+.course-content--rating {
+    padding-bottom: 5px;
+}
+
+.course-content--rating>span:nth-child(1) {
+    color: #f3ca8c;
+}
+
+.course-content--instructor-links {
+    margin-bottom: 7px;
+}
+
+.course-content--meta>span {
+    margin-right: 20px;
+}
+
+@media (max-width: 850px) {
+    .course-content--meta>span {
+        display: block;
+    }
+}
